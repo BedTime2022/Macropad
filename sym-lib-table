@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OPL")(type "KiCad")(uri "/home/bed/Downloads/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "OPL2")(type "KiCad")(uri "/home/bed/Downloads/SparkFun-KiCad-Libraries-main/symbols/SparkFun-Display.kicad_sym")(options "")(descr ""))
+  (lib (name "oled")(type "KiCad")(uri "/home/bed/Downloads/kbd.kicad_sym")(options "")(descr ""))
+)
