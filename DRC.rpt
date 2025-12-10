@@ -1,0 +1,88 @@
+** Drc report for Macropad.kicad_pcb **
+** Created on 2025-12-09T19:20:59-0500 **
+
+** Found 12 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(77.8100 mm, 69.4850 mm): Rectangle on Edge.Cuts
+    @(138.1900 mm, 69.5940 mm): Segment of U1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(77.8100 mm, 69.4850 mm): Rectangle on Edge.Cuts
+    @(147.1890 mm, 68.6840 mm): Segment of U1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(77.8100 mm, 69.4850 mm): Rectangle on Edge.Cuts
+    @(133.7350 mm, 69.8350 mm): Circle of U1 on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(129.9250 mm, 101.7750 mm): PCB text '　　　　　　 　 　 　 　 /　/　,　-‐─‐- ..__／'￣｀ 　 ＿
+　　　　　　　　 ,　-‐ｧ′/／／　￣￣｀　//⌒＝ミ,　| | |
+　　　　　 　 ／　　./　 / ／　　　　　　　　　 ⌒＼＼| | |
+　　　　　　/　　　.::| 　｛//　　　　 ／　　　　　　　 ＼ｉ | |
+.　　　　　/　　 .:　.:|　〃　　　　／　 ／／　　 j 　 　 | | |
+　　　　　′　 .:　.::｣_//　　　／ ,_／／〃　　 /　　　i∨ハ
+　　　　 i　　　:　.:|　Y{　　〃__彡'＾く／/　　//ii　i 　 ! |(　 ∨ /
+　　　　 !　　 　 .::|||l.|｢　//ｨﾃそk 彡 /　／_⌒|　!　 j :| ｀.　∨ /
+.　　 　 i　　　　　|__/|: //|弋ｚｿ　　／イｯ'てトJ /　/} ハ :　 ∨ /
+.　　 　 |　　　 　 :.:.V|/V｜　　　　　　　ヒ ｿ ﾉj/　/ｨ/　 '.　　 ∨ /
+.　　 　 |　　　 　 :.:.:!i|l「ﾍ.ﾄ,　　 ､　　　' __　　〃 〃/{　:.　:　　 i∨
+.　　 　 |　　　　　:.:.:.:|!ﾏ={{ ＼　 ＿ｰ‐ |ｉｉ| .ｲ / /イ{｛　:.　:.　　 i'.　/
+.　　 　 |　　　　　 :.:.:.Vﾊ　＼/{h.ﾏﾊ - |ｉｉ｢／7/^'くj {　 　 　 　 i ∨
+.　　 　 |　　　　　 　 :.:Vﾊ.　 { {|:　ﾏﾊ　|ｉｉ|{　/'　 　 V:　　　　　 i. '.　/
+　 　 　 !.　　　　　　　.:.V＞'7　＼/ﾏ|,//ﾊ　　 　 　 i:　　　:. :　 i.　∨ /
+　 　 　 i:　　　　　　/　　　 /|　/＾＼V//ハ 　 []｜ |: : .　: : :　 i 　 ∨
+　　　　 !:.　　　　　 i 　 　 ￡|/ 》‐｢＾}ｉｉi|　　ｉ　　　　,^ : :. .: .:　　i
+　　　　 i :　　 　 　 |　　　￡ 　 |　|　|ｉｉi|　　|＿＿__ji　:. : .:　.
+　　　　 | :　　 　 　 |　　 V　 　 |　|　|　|　 ｢|￣￣[_,|:　: : .:　:.
+　　　　 | :.　　　 　 :! 　 /　　　｜ |　|　|　 |:|　　 　:||i　: :　:.　:' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6350 mm)
+    Rule: board setup constraints silk text height; warning
+    @(142.5600 mm, 93.7850 mm): Reference field of U1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(200.2750 mm, 76.0750 mm): Footprint text of J1 (GND)
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(200.2750 mm, 78.6150 mm): Footprint text of J1 (VCC)
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(200.2750 mm, 81.1550 mm): Footprint text of J1 (SCL)
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(200.2750 mm, 83.6950 mm): Footprint text of J1 (SDA)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(133.7950 mm, 88.6440 mm): Segment of U1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(151.5750 mm, 88.6440 mm): Segment of U1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(129.9250 mm, 101.7750 mm): PCB text '　　　　　　 　 　 　 　 /　/　,　-‐─‐- ..__／'￣｀ 　 ＿
+　　　　　　　　 ,　-‐ｧ′/／／　￣￣｀　//⌒＝ミ,　| | |
+　　　　　 　 ／　　./　 / ／　　　　　　　　　 ⌒＼＼| | |
+　　　　　　/　　　.::| 　｛//　　　　 ／　　　　　　　 ＼ｉ | |
+.　　　　　/　　 .:　.:|　〃　　　　／　 ／／　　 j 　 　 | | |
+　　　　　′　 .:　.::｣_//　　　／ ,_／／〃　　 /　　　i∨ハ
+　　　　 i　　　:　.:|　Y{　　〃__彡'＾く／/　　//ii　i 　 ! |(　 ∨ /
+　　　　 !　　 　 .::|||l.|｢　//ｨﾃそk 彡 /　／_⌒|　!　 j :| ｀.　∨ /
+.　　 　 i　　　　　|__/|: //|弋ｚｿ　　／イｯ'てトJ /　/} ハ :　 ∨ /
+.　　 　 |　　　 　 :.:.V|/V｜　　　　　　　ヒ ｿ ﾉj/　/ｨ/　 '.　　 ∨ /
+.　　 　 |　　　 　 :.:.:!i|l「ﾍ.ﾄ,　　 ､　　　' __　　〃 〃/{　:.　:　　 i∨
+.　　 　 |　　　　　:.:.:.:|!ﾏ={{ ＼　 ＿ｰ‐ |ｉｉ| .ｲ / /イ{｛　:.　:.　　 i'.　/
+.　　 　 |　　　　　 :.:.:.Vﾊ　＼/{h.ﾏﾊ - |ｉｉ｢／7/^'くj {　 　 　 　 i ∨
+.　　 　 |　　　　　 　 :.:Vﾊ.　 { {|:　ﾏﾊ　|ｉｉ|{　/'　 　 V:　　　　　 i. '.　/
+　 　 　 !.　　　　　　　.:.V＞'7　＼/ﾏ|,//ﾊ　　 　 　 i:　　　:. :　 i.　∨ /
+　 　 　 i:　　　　　　/　　　 /|　/＾＼V//ハ 　 []｜ |: : .　: : :　 i 　 ∨
+　　　　 !:.　　　　　 i 　 　 ￡|/ 》‐｢＾}ｉｉi|　　ｉ　　　　,^ : :. .: .:　　i
+　　　　 i :　　 　 　 |　　　￡ 　 |　|　|ｉｉi|　　|＿＿__ji　:. : .:　.
+　　　　 | :　　 　 　 |　　 V　 　 |　|　|　|　 ｢|￣￣[_,|:　: : .:　:.
+　　　　 | :.　　　 　 :! 　 /　　　｜ |　|　|　 |:|　　 　:||i　: :　:.　:' on F.Silkscreen
+    @(142.5600 mm, 93.7850 mm): Reference field of U1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
