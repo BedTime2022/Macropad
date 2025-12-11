@@ -3827,6 +3827,32 @@
 		(layer "Edge.Cuts")
 		(uuid "580cf918-41c7-4ff9-8840-f343b06f844a")
 	)
+	(gr_text "macropad by BedTime"
+		(at 188 190 0)
+		(layer "F.Cu")
+		(uuid "08ecfaaa-efad-4c64-930b-2fe616bb60eb")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Macropad by BedTime"
+		(at 122 121 0)
+		(layer "F.SilkS")
+		(uuid "21af8929-74f7-4f70-92fb-de2b52ac498f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "　　　　　　 　 　 　 　 /　/　,　-‐─‐- ..__／'￣｀ 　 ＿\n　　　　　　　　 ,　-‐ｧ′/／／　￣￣｀　//⌒＝ミ,　| | |\n　　　　　 　 ／　　./　 / ／　　　　　　　　　 ⌒＼＼| | |\n　　　　　　/　　　.::| 　｛//　　　　 ／　　　　　　　 ＼ｉ | |\n.　　　　　/　　 .:　.:|　〃　　　　／　 ／／　　 j 　 　 | | |\n　　　　　′　 .:　.::｣_//　　　／ ,_／／〃　　 /　　　i∨ハ\n　　　　 i　　　:　.:|　Y{　　〃__彡'＾く／/　　//ii　i 　 ! |(　 ∨ /\n　　　　 !　　 　 .::|||l.|｢　//ｨﾃそk 彡 /　／_⌒|　!　 j :| ｀.　∨ /\n.　　 　 i　　　　　|__/|: //|弋ｚｿ　　／イｯ'てトJ /　/} ハ :　 ∨ /\n.　　 　 |　　　 　 :.:.V|/V｜　　　　　　　ヒ ｿ ﾉj/　/ｨ/　 '.　　 ∨ /\n.　　 　 |　　　 　 :.:.:!i|l「ﾍ.ﾄ,　　 ､　　　' __　　〃 〃/{　:.　:　　 i∨\n.　　 　 |　　　　　:.:.:.:|!ﾏ={{ ＼　 ＿ｰ‐ |ｉｉ| .ｲ / /イ{｛　:.　:.　　 i'.　/\n.　　 　 |　　　　　 :.:.:.Vﾊ　＼/{h.ﾏﾊ - |ｉｉ｢／7/^'くj {　 　 　 　 i ∨\n.　　 　 |　　　　　 　 :.:Vﾊ.　 { {|:　ﾏﾊ　|ｉｉ|{　/'　 　 V:　　　　　 i. '.　/\n　 　 　 !.　　　　　　　.:.V＞'7　＼/ﾏ|,//ﾊ　　 　 　 i:　　　:. :　 i.　∨ /\n　 　 　 i:　　　　　　/　　　 /|　/＾＼V//ハ 　 []｜ |: : .　: : :　 i 　 ∨\n　　　　 !:.　　　　　 i 　 　 ￡|/ 》‐｢＾}ｉｉi|　　ｉ　　　　,^ : :. .: .:　　i\n　　　　 i :　　 　 　 |　　　￡ 　 |　|　|ｉｉi|　　|＿＿__ji　:. : .:　.\n　　　　 | :　　 　 　 |　　 V　 　 |　|　|　|　 ｢|￣￣[_,|:　: : .:　:.\n　　　　 | :.　　　 　 :! 　 /　　　｜ |　|　|　 |:|　　 　:||i　: :　:.　:"
 		(at 99 81.5 0)
 		(layer "F.SilkS")
@@ -3915,14 +3941,6 @@
 		)
 	)
 	(segment
-		(start 115.65 114.275)
-		(end 115.65 125.54)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "096322bc-88e0-485a-a837-5b9a2f214b46")
-	)
-	(segment
 		(start 158.152 71.452)
 		(end 149.86469 71.452)
 		(width 0.2)
@@ -3937,6 +3955,22 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "16e162ae-9507-4bfc-aed9-93e02a58bc6d")
+	)
+	(segment
+		(start 115.65 114.275)
+		(end 115.65 125.54)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "17852905-745f-405b-bca8-e92bdd772f06")
+	)
+	(segment
+		(start 113.349 111.974)
+		(end 115.65 114.275)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "19921893-4679-4ca9-9055-6b9d3553a31e")
 	)
 	(segment
 		(start 95.73 125.54)
@@ -4065,6 +4099,14 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "64a80dae-7888-4031-88bb-853c56917469")
+	)
+	(segment
+		(start 113.349 108.926)
+		(end 113.349 111.974)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "7452ea03-04a8-4d62-a4d8-e8e261927545")
 	)
 	(segment
 		(start 96.735 125.54)
@@ -4217,6 +4259,14 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "f7d994b3-82a4-49af-aa83-173fd609d180")
+	)
+	(segment
+		(start 114.45 107.825)
+		(end 113.349 108.926)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "fa8ef04a-9ee2-4591-87b4-200c68b42412")
 	)
 	(segment
 		(start 168.351 108.774)

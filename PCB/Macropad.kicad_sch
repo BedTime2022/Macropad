@@ -1440,6 +1440,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "macropad by BedTime"
+		(exclude_from_sim no)
+		(at 197.866 189.484 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "24c01cfd-763e-4694-a606-9a76a1f952ce")
+	)
 	(junction
 		(at 113.03 124.46)
 		(diameter 0)
