@@ -15,6 +15,10 @@ after some thought I decided to add a enter and dfjk keys.
 
 3. 5 leds sk6812mini
 
+4. 5 cherry mx switches 
+
+5. XIAO RP2040 based
+
 
 ![PCB](Assets/PCB.png)
 
@@ -53,7 +57,7 @@ Item	                    	                            Est. Price (USD)
 
 - 3D Printed Case – Bottom	Custom enclosure piece	1	~$10
 
-        is price is about $45 Dollars.
+        The total price is about $45 Dollars.
 
 # CHALLENGES 
 I am absolutly new to circuit design and 3d modeling 
@@ -76,6 +80,7 @@ thinking about makingit capable of showing information
 from api's.
 (like media playing, weather, gif's, etc.)
 
+- I will be updating the repo if any problems are found with either the design or the code used, also images from the product ensambled :3.
 
 THANKS a lot to hackclub and amd for creating 
 blueprint check it out at https://blueprint.hackclub.com/. ^^
