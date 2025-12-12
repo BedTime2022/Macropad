@@ -16,15 +16,15 @@ after some thought I decided to add a enter and dfjk keys.
 3. 5 leds sk6812mini
 
 
-![PCB](Assets\PCB.png)
+![PCB](Assets/PCB.png)
 
-![schematics](Assets\Schematic.png)
+![schematics](Assets/Schematic.png)
 
 
-![bottom 3d design](Assets\bottom_model.png)
-![top 3d design](Assets\top_model.png)
-![PCB 3d render [1]](Assets\PCB_model_1.png)
-![PCB 3d render [2]](Assets\PCB_model_2.png)
+![bottom 3d design](Assets/bottom_model.png)
+![top 3d design](Assets/top_model.png)
+![PCB 3d render [1]](Assets/PCB_model_1.png)
+![PCB 3d render [2]](Assets/PCB_model_2.png)
 
 
 # BOM:
