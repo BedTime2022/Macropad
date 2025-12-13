@@ -50,7 +50,7 @@ Item
 
 - M3 Heatset Inserts	Brass inserts for mounting	4	
 
-- PCB Fabrication	from jlcpcb	1	~$4 (for 5 pcs) 
+- PCB Fabrication	from jlcpcb	1	
 
 - 3D Printed Case – Top	Custom enclosure piece	1	
 
