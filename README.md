@@ -59,8 +59,10 @@ Item
 # CHALLENGES 
 I am absolutly new to circuit design and 3d modeling 
 and even though the process was really straight 
-forward thanks to the tutorial, using fusion 360 
-gave me some headaches for sure.
+forward thanks to the tutorial.
+
+Using fusion 360 gave me some headaches for sure.
+
 
 
 # Changes for the future
