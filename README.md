@@ -1,4 +1,4 @@
-# Macropad by BedTime thanks to blueprint by Hackclub !!!!
+# Macropad by BedTime thanks to blueprint by Hackclub and AMD !!!!
 
 
 
@@ -33,31 +33,28 @@ after some thought I decided to add a enter and dfjk keys.
 
 # BOM:
 
-- Bill of Materials (with Estimated Pricing)
+- Bill of Materials 
 
-    Price of individual parts, vary a lot and are often pricier because are sold on bulks.
 
-Item	                    	                            Est. Price (USD)
+Item	                    	                           
 
-- Cherry MX Switches	Standard mechanical switches	5	~$1.00–$2.50 each (~$5–$12)
+- Cherry MX Switches	Standard mechanical switches	5	
 
-- Blank DSA Keycaps	Profile keycaps compatible with MX switches	5	~$6 on Amazon
+- Blank DSA Keycaps	Profile keycaps compatible with MX switches	5	
 
-- SK6812 Mini LEDs	Addressable RGB LEDs	5	~$0.50–$1.50 each (~$3–$8)
+- SK6812 Mini LEDs	Addressable RGB LEDs	5	
 
-- Seeed XIAO RP2040	Microcontroller board (RP2040)	1	~$9.00 on amazon
+- Seeed XIAO RP2040	Microcontroller board (RP2040)	1	
 
-- M3×16 Bolts		4	~$5 for multiple on amazon
+- M3×16 Bolts		4	
 
-- M3 Heatset Inserts	Brass inserts for mounting	4	about $5 on amazon for a pack of multiples
+- M3 Heatset Inserts	Brass inserts for mounting	4	
 
 - PCB Fabrication	from jlcpcb	1	~$4 (for 5 pcs) 
 
-- 3D Printed Case – Top	Custom enclosure piece	1	~$10
+- 3D Printed Case – Top	Custom enclosure piece	1	
 
-- 3D Printed Case – Bottom	Custom enclosure piece	1	~$10
-
-        The total price is about $45 Dollars.
+- 3D Printed Case – Bottom	Custom enclosure piece	1	
 
 # CHALLENGES 
 I am absolutly new to circuit design and 3d modeling 
