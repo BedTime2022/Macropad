@@ -25,8 +25,8 @@ after some thought I decided to add a enter and dfjk keys.
 ![schematics](Assets/Schematic.png)
 
 
-![bottom 3d design](Assets/bottom_model.png)
-![top 3d design](Assets/top_model.png)
+![render](Assets/yeiii1.png)
+![render 2](Assets/yeiii2.png)
 ![PCB 3d render [1]](Assets/PCB_model_1.png)
 ![PCB 3d render [2]](Assets/PCB_model_2.png)
 
