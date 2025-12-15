@@ -25,8 +25,8 @@ after some thought I decided to add a enter and dfjk keys.
 ![schematics](Assets/Schematic.png)
 
 
-![render](Assets/yeiii1.png)
-![render 2](Assets/yeiii2.png)
+![render](Assets/yeiii 1.png)
+![render 2](Assets/yeiii 2.png)
 ![PCB 3d render [1]](Assets/PCB_model_1.png)
 ![PCB 3d render [2]](Assets/PCB_model_2.png)
 
@@ -63,6 +63,9 @@ forward thanks to the tutorial.
 
 Using fusion 360 gave me some headaches for sure.
 
+designing the top model of the case took me 2 days 😭 
+it is finally dine and helped me a lot to understand more
+what I wanted and notice desing flaws on the pcb.
 
 
 # Changes for the future
