@@ -21,15 +21,18 @@ after some thought I decided to add a enter and dfjk keys.
 
 
 ![PCB](Assets/PCB.png)
+![PCB RENDER](Assets/PCB_B.png)
 
 ![schematics](Assets/Schematic.png)
 
 
 ![render](Assets/yeiii1.png)
 ![render 2](Assets/yeiii2.png)
-![PCB 3d render [1]](Assets/PCB_model_1.png)
-![PCB 3d render [2]](Assets/PCB_model_2.png)
+![PCB 3d render [1]](Assets/PCB_MODEL_A.png)
+![PCB 3d render [2]](Assets/PCB_MODEL_B.png)
 
+![PCB 3d render [3]](Assets/yeii5.png)
+![PCB 3d render [4]](Assets/yeii6.png)
 
 # BOM:
 
